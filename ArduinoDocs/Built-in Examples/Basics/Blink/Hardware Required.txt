@@ -1,0 +1,6 @@
+Arduino Board
+optional:
+
+LED
+
+220 ohm resistor
