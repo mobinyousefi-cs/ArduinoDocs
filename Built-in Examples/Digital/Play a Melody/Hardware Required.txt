@@ -1,0 +1,5 @@
+Arduino Board
+
+piezo buzzer or a speaker
+
+hook-up wires

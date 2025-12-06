@@ -1,0 +1,9 @@
+Arduino Board
+
+3 8 ohm speakers
+
+3 100 ohm resistor
+
+hook-up wires
+
+breadboard
