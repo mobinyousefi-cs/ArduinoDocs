@@ -1,9 +1,0 @@
-Arduino Board
-
-Momentary button or Switch
-
-10K ohm resistor
-
-hook-up wires
-
-breadboard

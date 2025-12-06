@@ -1,7 +1,0 @@
-Arduino Board
-
-A momentary switch, button, or toggle switch
-
-breadboard
-
-hook-up wire

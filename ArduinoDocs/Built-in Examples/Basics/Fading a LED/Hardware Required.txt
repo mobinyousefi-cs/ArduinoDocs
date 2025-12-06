@@ -1,9 +1,0 @@
-Arduino Board
-
-LED
-
-220 ohm resistor
-
-hook-up wires
-
-breadboard
